@@ -1,5 +1,5 @@
 
 
-export const API_BASE_URL = 'http://localhost:8080/api'; // Adjust this based on your backend setup
+export const API_BASE_URL = 'https://dnd-five-zeta.vercel.app/api'; // Adjust this based on your backend setup
 
 
